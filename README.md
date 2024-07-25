@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eva Langerova</h1>
 <h3 align="center">A full stack software engineer</h3>
 
-- 🌱 I’m currently learning **Express.js**, **ReactJS**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
